@@ -1,1 +1,1 @@
-# ImEclipseGames-github.io
+# ImEclipseGames.github.io
